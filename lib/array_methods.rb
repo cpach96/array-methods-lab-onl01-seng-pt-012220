@@ -34,5 +34,9 @@ def using_last(array)
 end
 
 def using_size(array)
+  
+  array_test = ["this" , "is" , "a" , "very" , "large" , "array!"]
+  
+  array_test.size
 
 end
