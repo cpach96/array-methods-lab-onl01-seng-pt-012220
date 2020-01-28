@@ -26,6 +26,10 @@ def using_first(array)
 end
 
 def using_last(array)
+  
+  array_test = ["i" , "love" , "arrays!"]
+  
+  array_test.last
 
 end
 
