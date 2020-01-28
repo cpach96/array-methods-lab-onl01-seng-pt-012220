@@ -18,6 +18,10 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  
+  array_test = ["wow" , "hello" , "Hi"]
+  
+  array_test.first
 
 end
 
